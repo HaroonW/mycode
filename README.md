@@ -3,7 +3,7 @@
 learning to track my code
 
 One paragrph of your project description goes here. Describe what yor're trying to do.
-What is the puppose of putting this repo
+What is the puppose of putting this repo. I want to learn how to version control projects with git.
 
 ## Getting started
 
